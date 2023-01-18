@@ -1,0 +1,2 @@
+e.g decode: Hi How are you,
+    encode: Lm Ls{ evi }sy
