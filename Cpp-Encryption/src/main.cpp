@@ -2,8 +2,7 @@
 
 int Encryption()
 {
-    char c;
-    char m;
+    std::string c, m;
     std::cin >> m;
     c = m + 2 * 2;
     std::cout << c << std::endl;
@@ -12,8 +11,7 @@ int Encryption()
 
 int Decryption()
 {
-    char c;
-    char m;
+    std::string c, m;
     std::cin >> c;
     m = c - 2 * 2;
     std::cout << m << std::endl;  
